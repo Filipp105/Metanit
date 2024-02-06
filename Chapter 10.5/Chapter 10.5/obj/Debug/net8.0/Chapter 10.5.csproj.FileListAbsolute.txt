@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.exe
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.deps.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.runtimeconfig.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.dll
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.pdb
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.sourcelink.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets\msbuild.Chapter 10.5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets\msbuild.build.Chapter 10.5.props
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chapter 10.5.props
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chapter 10.5.props
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\scopedcss\bundle\Chapter 10.5.styles.css
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.dll
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\refint\Chapter 10.5.dll
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.pdb
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\Chapter 10.5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\obj\Debug\net8.0\ref\Chapter 10.5.dll
+C:\Users\Admin\Desktop\metanit_asp_net_course\Chapter 10.5\Chapter 10.5\bin\Debug\net8.0\Chapter 10.5.staticwebassets.runtime.json

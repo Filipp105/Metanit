@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "J87tAV5StauovmDE/deBaowUHETsskYUxL2ch4RzBDI=",
+  "Source": "Chapter 11.1",
+  "BasePath": "_content/Chapter 11.1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chapter 11.1\\wwwroot",
+      "Source": "Chapter 11.1",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 11.1\\Chapter 11.1\\wwwroot\\",
+      "BasePath": "_content/Chapter 11.1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 11.1\\Chapter 11.1\\wwwroot\\index.html",
+      "SourceId": "Chapter 11.1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 11.1\\Chapter 11.1\\wwwroot\\",
+      "BasePath": "_content/Chapter 11.1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\metanit_asp_net\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\metanit_asp_net\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj": {
+    "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\metanit_asp_net\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj",
         "projectName": "Chapter 10.4",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\metanit_asp_net\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.4\\Chapter 10.4\\Chapter 10.4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\metanit_asp_net\\Chapter 10.4\\Chapter 10.4\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.4\\Chapter 10.4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

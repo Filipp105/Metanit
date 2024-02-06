@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "x8OhcMxYGNn/oqOhKqlE6IUK1lmneenYr144kFwSAJE=",
+  "Source": "Chapter 10.5",
+  "BasePath": "_content/Chapter 10.5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chapter 10.5\\wwwroot",
+      "Source": "Chapter 10.5",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.5\\Chapter 10.5\\wwwroot\\",
+      "BasePath": "_content/Chapter 10.5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.5\\Chapter 10.5\\wwwroot\\Files\\newRiver.jpg",
+      "SourceId": "Chapter 10.5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit_asp_net_course\\Chapter 10.5\\Chapter 10.5\\wwwroot\\",
+      "BasePath": "_content/Chapter 10.5",
+      "RelativePath": "Files/newRiver.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\newRiver.jpg"
+    }
+  ]
+}
