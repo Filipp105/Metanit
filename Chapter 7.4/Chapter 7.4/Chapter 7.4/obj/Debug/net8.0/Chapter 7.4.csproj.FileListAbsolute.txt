@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\metanit_asp_net\Chapter 7.4\Chapter 7.4\Chapter 7.4\obj\Debug\net8.0\Chapter 7.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\metanit_asp_net\Chapter 7.4\Chapter 7.4\Chapter 7.4\obj\Debug\net8.0\Chapter 7.4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\metanit_asp_net\Chapter 7.4\Chapter 7.4\Chapter 7.4\obj\Debug\net8.0\Chapter 7.4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\metanit_asp_net\Chapter 7.4\Chapter 7.4\Chapter 7.4\obj\Debug\net8.0\Chapter 7.4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\metanit_asp_net\Chapter 7.4\Chapter 7.4\Chapter 7.4\obj\Debug\net8.0\Chapter 7.4.MvcApplicationPartsAssemblyInfo.cache

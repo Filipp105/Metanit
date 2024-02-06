@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chapter2.9SendingAndReceivingJSON.props" />
+</Project>

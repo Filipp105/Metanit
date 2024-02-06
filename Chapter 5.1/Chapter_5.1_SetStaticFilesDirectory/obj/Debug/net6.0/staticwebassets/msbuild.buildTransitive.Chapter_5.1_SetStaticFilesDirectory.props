@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chapter_5.1_SetStaticFilesDirectory.props" />
+</Project>

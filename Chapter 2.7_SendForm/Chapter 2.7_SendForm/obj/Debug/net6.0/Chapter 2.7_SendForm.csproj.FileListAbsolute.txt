@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\Chapter 2.7_SendForm.exe
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\Chapter 2.7_SendForm.deps.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\Chapter 2.7_SendForm.runtimeconfig.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\Chapter 2.7_SendForm.dll
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\bin\Debug\net6.0\Chapter 2.7_SendForm.pdb
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets\msbuild.Chapter 2.7_SendForm.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets\msbuild.build.Chapter 2.7_SendForm.props
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chapter 2.7_SendForm.props
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chapter 2.7_SendForm.props
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\scopedcss\bundle\Chapter 2.7_SendForm.styles.css
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.dll
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\refint\Chapter 2.7_SendForm.dll
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.pdb
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\Chapter 2.7_SendForm.genruntimeconfig.cache
+C:\Users\Admin\Desktop\metanit-asp-net-tuts-master\Chapter 2.7_SendForm\N_2_7_SendForm\obj\Debug\net6.0\ref\Chapter 2.7_SendForm.dll

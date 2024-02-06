@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chapter_6.3_Configuration_In_XML_JSON_Ini_Files/1.0.0": {
+        "runtime": {
+          "Chapter_6.3_Configuration_In_XML_JSON_Ini_Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter_6.3_Configuration_In_XML_JSON_Ini_Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

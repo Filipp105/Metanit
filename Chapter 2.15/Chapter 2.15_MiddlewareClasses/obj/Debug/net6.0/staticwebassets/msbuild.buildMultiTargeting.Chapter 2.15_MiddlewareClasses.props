@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chapter 2.15_MiddlewareClasses.props" />
+</Project>

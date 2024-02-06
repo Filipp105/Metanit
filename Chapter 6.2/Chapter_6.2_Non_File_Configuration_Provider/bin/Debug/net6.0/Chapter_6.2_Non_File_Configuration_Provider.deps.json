@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chapter_6.2_Non_File_Configuration_Provider/1.0.0": {
+        "runtime": {
+          "Chapter_6.2_Non_File_Configuration_Provider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter_6.2_Non_File_Configuration_Provider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

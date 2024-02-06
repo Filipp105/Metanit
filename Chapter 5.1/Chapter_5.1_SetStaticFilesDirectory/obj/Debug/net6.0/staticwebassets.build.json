@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "b0ItIh4GGblQ4+lPh/lzLZkJSSqACNSxnHRlNYMSUQo=",
+  "Source": "Chapter_5.1_SetStaticFilesDirectory",
+  "BasePath": "_content/Chapter_5.1_SetStaticFilesDirectory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chapter_5.1_SetStaticFilesDirectory\\wwwroot",
+      "Source": "Chapter_5.1_SetStaticFilesDirectory",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit-asp-net-tuts-master\\Chapter 5.1\\N_5_1_SetStaticFilesDirectory\\wwwroot\\",
+      "BasePath": "_content/Chapter_5.1_SetStaticFilesDirectory",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\metanit-asp-net-tuts-master\\Chapter 5.1\\N_5_1_SetStaticFilesDirectory\\wwwroot\\index.html",
+      "SourceId": "Chapter_5.1_SetStaticFilesDirectory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\metanit-asp-net-tuts-master\\Chapter 5.1\\N_5_1_SetStaticFilesDirectory\\wwwroot\\",
+      "BasePath": "_content/Chapter_5.1_SetStaticFilesDirectory",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

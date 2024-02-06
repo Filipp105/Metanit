@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\N_2_3_TerminableMiddlewareAndRunMethod.props" />
+</Project>

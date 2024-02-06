@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\N_2_5_HttpRequest.props" />
+</Project>

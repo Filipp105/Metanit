@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chapter_6.2_Non_File_Configuration_Provider.props" />
+</Project>

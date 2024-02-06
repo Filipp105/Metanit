@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chapter_4.2_RouteParameters/1.0.0": {
+        "runtime": {
+          "Chapter_4.2_RouteParameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter_4.2_RouteParameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

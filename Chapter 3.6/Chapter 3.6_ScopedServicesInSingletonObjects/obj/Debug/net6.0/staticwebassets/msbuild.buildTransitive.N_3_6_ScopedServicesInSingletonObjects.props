@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\N_3_6_ScopedServicesInSingletonObjects.props" />
+</Project>

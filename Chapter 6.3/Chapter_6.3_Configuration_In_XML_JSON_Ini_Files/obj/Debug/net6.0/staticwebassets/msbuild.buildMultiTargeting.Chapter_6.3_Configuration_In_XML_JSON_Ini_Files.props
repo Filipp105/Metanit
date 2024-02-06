@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chapter_6.3_Configuration_In_XML_JSON_Ini_Files.props" />
+</Project>

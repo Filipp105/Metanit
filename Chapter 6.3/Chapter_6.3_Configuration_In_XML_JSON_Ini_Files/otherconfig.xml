@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <person>
+        <profile>
+            <name>Filipp</name>
+            <email>filipp105@bk.ru</email>
+        </profile>
+    </person>
+    <company>
+        <name>DNS</name>
+    </company>
+</configuration>
